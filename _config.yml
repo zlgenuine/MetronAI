@@ -1,3 +1,11 @@
 title: Metron AI
 description: Embodied Consciousness 
 remote_theme: pages-themes/minimal 
+show_downloads: true
+google_analytics: 
+theme: jekyll-theme-cayman # 这是一个非常大气、适合学术项目的主题
+
+# 社交链接设置
+github_username: Ling Z
+# 如果有论文链接可以放这里
+remote_theme: pages-themes/cayman
