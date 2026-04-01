@@ -1,2 +1,0 @@
-# MetronAI
-MetronAI：embodied consciousness
